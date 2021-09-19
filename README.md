@@ -1,1 +1,1 @@
-[Click here to visit Translator ]( https://translingu.netlify.app/) # Translator_App  
+👉 [Click here to visit Translator_App ]( https://translingu.netlify.app/)
